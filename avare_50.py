@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #Author: Ahmet Aksoy
-#Purpose: Simulate human behaviour while visiting selected web pages
+#Purpose: Simulate human behaviour while visiting randomly selected web pages
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.expected_conditions import staleness_of
